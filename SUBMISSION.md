@@ -56,6 +56,8 @@ status after the Travis CI build has recovered.
 
  Your dockerfile. Please provide a link to this file rather than a screen capture
 
+ ![LinkToDockerfile](https://github.com/momeni22/spring-petclinic/blob/master/Dockerfile)
+
 
 
 
@@ -70,6 +72,6 @@ status after the Travis CI build has recovered.
 
 
    The output from the docker-compose up command.
-   ![3](https://github.com/momeni22/spring-petclinic/blob/master/figures/DockerCompose.png)
+   ![3](https://github.com/momeni22/spring-petclinic/blob/master/figures/DockerCompose1.png)
 
 
